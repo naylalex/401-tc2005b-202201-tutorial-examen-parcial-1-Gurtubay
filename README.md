@@ -54,7 +54,7 @@ Inicializa un proyecto de node considerando los siguientes requerimientos:
 
 * Verifica que `package.json` en la sección `scripts`, cuente con los siguientes:
   * `"tsc": "tsc"`
-  * `"tsc:w: "tsc --watch"`
+  * `"tsc:w": "tsc --watch"`
 
 * Inicializa TypeScript y genera su archivo de configuración de TypeScript `npm run tsc -- --init`
 
